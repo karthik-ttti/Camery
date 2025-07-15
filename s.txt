@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 qwertyujk
+=======
+asdfg
+>>>>>>> 89416fab8635a8a5320560fa2ab4d9f5023a3312
